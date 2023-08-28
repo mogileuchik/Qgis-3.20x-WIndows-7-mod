@@ -4,7 +4,7 @@ Will these steps help launch Qgis 3.20X, 3.22, 3.28 on Windows 7.</p>
 
 <p>To install, follow these steps:
 <li> Udated Windows 7 with last updates<ui>
-<li>Download https://github.com/nalexandru/api-ms-win-core-path-HACK/releases. and copy to System32 or SysWOW64.<Ui>
-<li> </li>install Qgis manually using the original installer<ui></ui>
+<li> Download https://github.com/nalexandru/api-ms-win-core-path-HACK/releases. and copy to System32 or SysWOW64.<Ui>
+<li> install Qgis manually using the original installer<ui></ui>
 </Ui>p>
 
